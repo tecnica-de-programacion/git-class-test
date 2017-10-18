@@ -12,4 +12,5 @@ git log
 git remote add origin <url>
 git push --set-upstream origin master
 git push
+git pull
 ```
