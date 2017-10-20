@@ -14,5 +14,9 @@ git push --set-upstream origin master
 git push
 git pull
 git remote update
+git checkout -b "new-branch"
+git checkout "new-branch"
+git branch
 git merge new-branch
+git reset
 ```
