@@ -26,4 +26,7 @@ git push origin :New-Feature
 git rebase origin/master
 git fetch
 .gitignore
+git log --graph --oneline --all
 ```
+
+Este es el final
