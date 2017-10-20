@@ -14,4 +14,5 @@ git push --set-upstream origin master
 git push
 git pull
 git remote update
+git merge new-branch
 ```
