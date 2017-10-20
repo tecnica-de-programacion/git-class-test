@@ -23,4 +23,7 @@ git reset HEAD^ --hard
 git push -f
 git branch -d New-Feature
 git push origin :New-Feature
+git rebase origin/master
+git fetch
+.gitignore
 ```
